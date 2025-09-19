@@ -289,4 +289,4 @@ class UniLectureNotifierApp:
 if __name__ == '__main__':
     root = tk.Tk()
     app = UniLectureNotifierApp(root)
-    root.mainloop()
+    root.mainloop(
